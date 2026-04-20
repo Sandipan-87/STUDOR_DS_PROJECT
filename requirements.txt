@@ -1,0 +1,18 @@
+# Core data stack
+pandas==3.0.2
+numpy==2.4.4
+scipy==1.17.1
+
+# Machine learning
+scikit-learn==1.8.0
+xgboost==3.2.0
+lightgbm==4.6.0
+
+# Visualisation
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# I/O and utilities
+pyarrow==23.0.1
+joblib==1.5.3
+tqdm==4.67.3

@@ -1,0 +1,29 @@
+# Dataset — large CSV files, not committed (see README for download instructions)
+data/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Generated outputs (reproducible from pipeline — optionally commit .png and .md)
+outputs/scored_features.parquet
+
+# IDE and OS
+.vscode/settings.json
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Secrets / credentials
+*.env
+.env
