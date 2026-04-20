@@ -53,7 +53,7 @@ STUDOR_DS/
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/STUDOR_DS.git
+git clone https://github.com/Sandipan-87/STUDOR_DS.git
 cd STUDOR_DS
 ```
 
