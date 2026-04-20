@@ -54,7 +54,7 @@ STUDOR_DS/
 
 ```bash
 git clone https://github.com/Sandipan-87/STUDOR_DS_PROJECT.git
-cd STUDOR_DS
+cd STUDOR_DS_PROJECT
 ```
 
 ---
